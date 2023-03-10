@@ -1,0 +1,9 @@
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\bin\Debug\netcoreapp2.2\Fsd.Bot.Utils.deps.json
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\bin\Debug\netcoreapp2.2\Fsd.Bot.Utils.dll
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\bin\Debug\netcoreapp2.2\Fsd.Bot.Utils.pdb
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\obj\Debug\netcoreapp2.2\Fsd.Bot.Utils.csprojAssemblyReference.cache
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\obj\Debug\netcoreapp2.2\Fsd.Bot.Utils.csproj.CoreCompileInputs.cache
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\obj\Debug\netcoreapp2.2\Fsd.Bot.Utils.AssemblyInfoInputs.cache
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\obj\Debug\netcoreapp2.2\Fsd.Bot.Utils.AssemblyInfo.cs
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\obj\Debug\netcoreapp2.2\Fsd.Bot.Utils.dll
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Utils\obj\Debug\netcoreapp2.2\Fsd.Bot.Utils.pdb

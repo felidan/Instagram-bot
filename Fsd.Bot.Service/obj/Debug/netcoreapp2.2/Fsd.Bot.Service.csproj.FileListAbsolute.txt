@@ -1,0 +1,14 @@
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Service.deps.json
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Service.dll
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Service.pdb
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Domain.dll
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Utils.dll
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Domain.pdb
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\bin\Debug\netcoreapp2.2\Fsd.Bot.Utils.pdb
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.csprojAssemblyReference.cache
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.csproj.CoreCompileInputs.cache
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.AssemblyInfoInputs.cache
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.AssemblyInfo.cs
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.csproj.CopyComplete
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.dll
+D:\Projetos\Fsd.BotSelenium\Fsd.Bot.Service\obj\Debug\netcoreapp2.2\Fsd.Bot.Service.pdb
